@@ -5,7 +5,8 @@
 
 Unity에서 오브젝트의 위치를 저장하고 쉽게 전환할 수 있는 도구입니다.
 
-![프로젝트 대표 이미지](https://github.com/user-attachments/assets/65522885-8cbd-4bfa-a2f2-c0313f73bcc6)
+![프로젝트 대표 이미지](https://github.com/user-attachments/assets/f5605d5b-fda4-4a7b-8c8c-377f7aefb615)
+
 
 
 # 🛠 설치 및 사용 방법
